@@ -18,6 +18,9 @@ In this project:
 - We use a **Simple RNN**, which is the most basic type of recurrent network.
 - Though it struggles with long-term dependencies, it's excellent for learning short-to-medium-range patterns and provides a solid foundation for understanding more advanced models like LSTMs or GRUs.
 ---
+## 🚀 Live Demo
+👉 https://simplernnmohit.streamlit.app/
+---
 
 ## 🖼️ Screenshots
 ### 📌 Sentiment Prediction Output
