@@ -19,7 +19,7 @@ In this project:
 - Though it struggles with long-term dependencies, it's excellent for learning short-to-medium-range patterns and provides a solid foundation for understanding more advanced models like LSTMs or GRUs.
 ---
 ## 🚀 Live Demo
-👉 https://simplernnmohit.streamlit.app/
+   👉 https://simplernnmohit.streamlit.app/
 ---
 
 ## 🖼️ Screenshots
@@ -59,11 +59,7 @@ In this project:
 - Why RNNs are foundational for text and sequence modeling.
 - How prediction thresholds turn probabilities into human-readable classes.
 
----
-
-## 🖼️ Screenshots
----
-
+--- 
 ## ⚠️ Limitations
 
 - Simple RNNs may **forget long-term dependencies** due to vanishing gradients.
