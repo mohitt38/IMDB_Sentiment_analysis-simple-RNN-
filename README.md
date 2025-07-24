@@ -22,7 +22,7 @@ In this project:
 ## 🖼️ Screenshots
 ### 📌 Sentiment Prediction Output
 
-![Prediction Example](images/prediction_output.png)
+![Prediction Example](image.png)
 
 > Displays how the model predicts sentiment for a custom movie review.
 
